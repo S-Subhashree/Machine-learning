@@ -22,3 +22,10 @@ Feel free to fork and submit pull requests.
 
 This version includes the Google Colab link, making it easier for users to run the project directly in Colab.
 
+## Installation
+
+1. **Clone the Repository:**
+
+   ```sh
+   git clone https://github.com/S-Subhashree/Machine-learning.git
+   
