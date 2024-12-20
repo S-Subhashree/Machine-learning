@@ -8,7 +8,7 @@ This project demonstrates how to build a machine learning model to predict the a
 
 • **Model Training:** Using a pipeline for training models like Random Forest.
 
-• **Model Evaluation:** Assessing accuracy using metrics like Mean Absolute Error (MAE) and Mean Squared Error (MSE).
+• **Model Evaluation:** Assessing accuracy using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE) and R2 Score.
 
 You can directly run the notebook in Google Colab.
 
